@@ -16,9 +16,4 @@ This project provides a **PowerShell-based solution** to detect when Windows Eve
 - Administrator privileges
 - Optional: Splunk HEC for forwarding
 
-## **Setup Instructions**
 
-### 1. Clone this repository
-```bash
-git clone <repository-url>
-cd <repository-folder>
